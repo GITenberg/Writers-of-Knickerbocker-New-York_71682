@@ -1,0 +1,36 @@
+_repo: Writers-of-Knickerbocker-New-York_71682
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Stilson, Walworth
+    gutenberg_agent_id: '56330'
+    url: http://www.gutenberg.org/2009/agents/56330
+creator:
+  author:
+    agent_name: Mabie, Hamilton Wright
+    alias: Mabie, Hamilton W. (Hamilton Wright)
+    birthdate: 1846
+    deathdate: 1916
+    gutenberg_agent_id: '1421'
+    url: http://www.gutenberg.org/2009/agents/1421
+    wikipedia: https://en.wikipedia.org/wiki/Hamilton_Wright_Mabie
+description: ''
+gutenberg_issued: '2023-09-19'
+identifiers:
+  gutenberg: '71682'
+language: en
+pgterms:marc904: https://archive.org/details/writersofknicker00mabi/page/n11/mode/2up
+pgterms:marc905: 20210801190111mabie
+pgterms:marc906: '1912'
+pgterms:marc907: US
+production_note: Charlene Taylor and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: '  $aNew York :$bThe Grolier Club of the City of New York, $c1912.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Writers of Knickerbocker New York
+url: http://www.gutenberg.org/ebooks/71682
