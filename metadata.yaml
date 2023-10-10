@@ -5,6 +5,9 @@ contributor:
     agent_name: Stilson, Walworth
     gutenberg_agent_id: '56330'
     url: http://www.gutenberg.org/2009/agents/56330
+covers:
+- cover_type: archival
+  image_path: 71682-h/images/cover.jpg
 creator:
   author:
     agent_name: Mabie, Hamilton Wright
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1421
     wikipedia: https://en.wikipedia.org/wiki/Hamilton_Wright_Mabie
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71682#Writers-of-Knickerbocker-New-York
 gutenberg_issued: '2023-09-19'
 identifiers:
   gutenberg: '71682'
